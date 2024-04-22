@@ -1,0 +1,2 @@
+1. Use create individual patient data to analyse and split each patient into a CSV file from the MIT database
+2. Use the cleanup data file to cleanup the data and combine all records into one .csv file
